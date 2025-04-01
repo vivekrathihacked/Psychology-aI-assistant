@@ -24,5 +24,5 @@ A Streamlit-powered web application that leverages Groq's powerful language mode
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/psychology-ai-assistant.git
-   cd psychology
+   git clone https://github.com/vivekrathihacked/psychology-ai-assistant.git
+   cd Psychology-aI-assistant
